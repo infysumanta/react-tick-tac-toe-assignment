@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-tick-tac-toe-assignment/static/css/main.22941023.css",
+    "main.js": "/react-tick-tac-toe-assignment/static/js/main.03e2a8cc.js",
+    "index.html": "/react-tick-tac-toe-assignment/index.html",
+    "main.22941023.css.map": "/react-tick-tac-toe-assignment/static/css/main.22941023.css.map",
+    "main.03e2a8cc.js.map": "/react-tick-tac-toe-assignment/static/js/main.03e2a8cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22941023.css",
+    "static/js/main.03e2a8cc.js"
+  ]
+}
